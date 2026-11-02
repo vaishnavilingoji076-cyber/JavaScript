@@ -5,3 +5,11 @@ function greet(){
 }
 
 greet();
+
+
+function add (a ,b){
+    return a+b;
+}
+
+let result = add(10,8);
+console.log(result);
